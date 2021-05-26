@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "313800608130",
+    "firebase_url": "https://imageandroid-a7227-default-rtdb.firebaseio.com",
+    "project_id": "imageandroid-a7227",
+    "storage_bucket": "imageandroid-a7227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313800608130:android:6e9a8a28353ebb0619e79b",
+        "android_client_info": {
+          "package_name": "com.giang.imagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313800608130-lrqe0ckoigugkb22c39v7e3fid1968n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGz_dQW1NbzpEE0l7yJ9lvzFznTIVTDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313800608130-lrqe0ckoigugkb22c39v7e3fid1968n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
